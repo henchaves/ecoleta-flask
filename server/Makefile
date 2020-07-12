@@ -19,6 +19,6 @@ test:
 	pytest tests/ -v --cov=ecoleta
 
 run:
-	export FLASK_ENV=development
 	export FLASK_APP=ecoleta/app.py
+	export FLASK_ENV=development
 	flask run
