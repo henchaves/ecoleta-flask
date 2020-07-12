@@ -1,0 +1,9 @@
+setup.py
+ecoleta/__init__.py
+ecoleta/__main__.py
+ecoleta/app.py
+ecoleta.egg-info/PKG-INFO
+ecoleta.egg-info/SOURCES.txt
+ecoleta.egg-info/dependency_links.txt
+ecoleta.egg-info/requires.txt
+ecoleta.egg-info/top_level.txt
