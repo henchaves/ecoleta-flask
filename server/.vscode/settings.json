@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "ecoleta/ext/site/__pycache__": true,
+    "ecoleta/__pycache__": true,
+    ".venv": true,
+    "ecoleta.egg-info": true,
+    "ecoleta/ext/api/resources/__pycache__": true,
+    "ecoleta/ext/api/__pycache__": true
+  }
+}
